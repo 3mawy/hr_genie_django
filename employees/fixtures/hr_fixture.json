@@ -1,0 +1,12 @@
+[
+  {
+    "model": "employees.employee",
+    "pk": 1,
+    "fields": {
+      "name": "hr_user",
+      "password": "pbkdf2_sha256$600000$SSezv044hckK3x26NKHVks$EFyEDEu6KvntHv0QpzH9NRVw3dWhHXV31zXUT45kdqc=",
+      "email": "test@hr.com",
+      "group": "HR"
+    }
+  }
+]
